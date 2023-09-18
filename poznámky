@@ -10,3 +10,5 @@ tam dám i pro insert
 popíšu, co chci a potom pomoci escape se dostanu zase k příkazům tam dám : enter a potom wq pro qiutnutí
 git push, když to chci poslat zpět na server
 git pull stáhnu aktualizaci ze serveru - abych mohl vždy něco vložit potom
+git init - založí to nový projekt, ale lepší dělat na na githubu
+git add - přidání sounoru
