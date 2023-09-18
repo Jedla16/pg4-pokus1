@@ -7,8 +7,8 @@ git status - ukaže nám, jestli proběhly nějaké změny na tom souboru
 git commit + název souboru - otevře nový editor, kde nás to nechají popsat - musím udělat vždy, když dělám nějakou změnu statusu
 Nový editor v2
 tam dám i pro insert
-popíšu, co chci a potom pomoci escape se dostanu zase k příkazům tam dám : enter a potom wq pro qiutnutí
+popíšu, co chci a potom pomoci escape se dostanu zase k příkazům tam dám : wq pro qiutnutí
 git push, když to chci poslat zpět na server
-git pull stáhnu aktualizaci ze serveru - abych mohl vždy něco vložit potom
+git pull stáhnu aktualizaci ze serveru - abych mohl vždy něco vložit potom a měl to aktualizované
 git init - založí to nový projekt, ale lepší dělat na na githubu
 git add + název souboru - přidání souboru
