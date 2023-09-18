@@ -11,4 +11,4 @@ popíšu, co chci a potom pomoci escape se dostanu zase k příkazům tam dám :
 git push, když to chci poslat zpět na server
 git pull stáhnu aktualizaci ze serveru - abych mohl vždy něco vložit potom
 git init - založí to nový projekt, ale lepší dělat na na githubu
-git add - přidání sounoru
+git add + název souboru - přidání souboru
